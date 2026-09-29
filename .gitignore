@@ -1,0 +1,12 @@
+node_modules/
+.env
+
+# Job media stays local: photos, generated clips, renders and Runway plans.
+jobs/*/photos/
+jobs/*/clips/
+jobs/*/out/
+jobs/*/plan/
+jobs/*/tests/
+jobs/*/_music.*
+jobs/local-*/
+assets/music/**/*.mp3

@@ -1,0 +1,62 @@
+{
+  "property_name": "Casa Demo",
+  "location": "Cartagena, Colombia",
+  "format": "9:16",
+  "style": "showcase",
+  "logo": null,
+  "music_category": null,
+  "cta": "Book your stay",
+  "cta_sub": null,
+  "scenes": [
+    {
+      "photo": "photos/01-hero.jpg",
+      "role": "hero",
+      "seconds": 3,
+      "caption": null,
+      "motion_prompt": "Slow cinematic push-in toward the front of the house at eye level."
+    },
+    {
+      "photo": "photos/02-living.jpg",
+      "role": "living_room",
+      "seconds": 4,
+      "caption": "Spacious living room",
+      "motion_prompt": "Smooth gimbal pan from left to right across the living room."
+    },
+    {
+      "photo": "photos/03-bedroom.jpg",
+      "role": "bedroom",
+      "seconds": 4,
+      "caption": "3 bedrooms",
+      "motion_prompt": "Gentle dolly forward toward the bed and the window."
+    },
+    {
+      "photo": "photos/04-pool.jpg",
+      "role": "pool",
+      "seconds": 4,
+      "caption": "Private pool",
+      "motion_prompt": "Low slow glide along the edge of the pool.",
+      "premium": true
+    },
+    {
+      "photo": "photos/05-view.jpg",
+      "role": "view",
+      "seconds": 4,
+      "caption": "Ocean view",
+      "motion_prompt": "Slow tilt up from the balcony railing to the horizon."
+    },
+    {
+      "photo": "photos/06-kitchen.jpg",
+      "role": "kitchen",
+      "seconds": 3,
+      "caption": "Fully equipped kitchen",
+      "ai": false
+    },
+    {
+      "photo": "photos/07-exterior.jpg",
+      "role": "cta",
+      "seconds": 3,
+      "caption": null,
+      "ai": false
+    }
+  ]
+}
